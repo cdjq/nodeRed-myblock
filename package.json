@@ -1,0 +1,27 @@
+{
+    "name": "@renyoo/node-red-myblock",
+    "version": "1.0.1",
+    "description": "node red nodes for myblock",
+    "node-red": {
+        "version": ">=2.0.0",
+        "nodes": {
+            "dfrobot-myBlock": "./My-Block/myBlock.js"
+        }
+    },
+    "author": "GDuang",
+    "license": "MIT",
+    "engines": {
+        "node": ">=12.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GDuang/nodeRed-myblock.git"
+    },
+    "keywords": [
+        "node-red",
+        "GDuang",
+        "myblock"
+    ],
+    "dependencies": {
+    }
+}
